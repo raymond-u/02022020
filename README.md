@@ -1,6 +1,6 @@
 # Project 02022020
 
-This repository contains a series of prophecies based on a timeline and serves as a potential **Rosetta Stone**[1] for future generations.
+This repository contains a series of prophecies based on a timeline and serves as a potential **Rosetta Stone** [1] for future generations.
 
 A snapshot of this repository will be created on 02/02/2020 and be preserved underground for 1,000 years by **GitHub Archive Program**.
 
