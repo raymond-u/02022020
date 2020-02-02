@@ -1,5 +1,9 @@
 # Project 02022020
 
+This project is created by Raymond Underwood.
+
+This project is merely a self-complacent action art.
+
 This repository contains a series of prophecies based on a timeline and serves as a potential **Rosetta Stone** [1] for future generations.
 
 A snapshot of this repository will be created on 02/02/2020 and be preserved underground for 1,000 years by **GitHub Archive Program**.
@@ -11,6 +15,10 @@ This snapshot is planned to be rediscovered on 03/03/3030.
 ***
 
 # 02022020 项目
+
+这个项目由 Raymond Underwood 创建。
+
+这个项目单纯是一种自我满足的行为艺术。
 
 这个仓库包含基于时间线的一系列预言，并作为为后代保留的潜在的**罗塞塔石碑**【1】。
 
